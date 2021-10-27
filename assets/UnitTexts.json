@@ -1,0 +1,437 @@
+{
+    "011911220139": 
+    {
+        "location": "Conference room A",
+        "name": "Geniox 18",
+        "title": "Air Handling Unit with integrated heat pump",
+        "description": "Eurovent Certified (A+ rated) outdoor unit with rotary heat exchanger, integrated reversible heat pump, EC plug fans, bag filter, water re-heater and integrated control system.",
+        "specs":
+        [
+            {
+                "title": "Air volume (fresh air)",
+                "value": 6012,
+                "unit": "m³/h"
+            },
+            {
+                "title": "Cooling recovery: Efficiency",
+                "value": 84.5,
+                "unit": "%"
+            },
+            {
+                "title": "Cooling recovery: Transferred capacity",
+                "value": 76.9,
+                "unit": "kW"
+            },
+            {
+                "title": "Integrated DX cooling",
+                "value": 35.7,
+                "unit": "kW"
+            },
+            {
+                "title": "EER total (Compressor system + rotary heat exchanger)",
+                "value": 8.4,
+                "unit": ""
+            },
+            {
+                "title": "SFP",
+                "value": 1.75,
+                "unit": "kW/(m³/h)"
+            }
+        ]
+    },
+
+    "011911220137": 
+    {
+        "location": "Conference room B",
+        "name": "Geniox 16",
+        "title": "Air Handling Unit with integrated heat pump",
+        "description": "Eurovent Certified (A+ rated) outdoor unit with rotary heat exchanger, integrated reversible heat pump, EC plug fans, bag filter, water re-heater and integrated control system.",
+        "specs":
+        [
+            {
+                "title": "Air volume (fresh air)",
+                "value": 4320,
+                "unit": "m³/h"
+            },
+            {
+                "title": "Cooling recovery: Efficiency",
+                "value": 84.4,
+                "unit": "%"
+            },
+            {
+                "title": "Cooling recovery: Transferred capacity",
+                "value": 55.9,
+                "unit": "kW"
+            },
+            {
+                "title": "Integrated DX cooling",
+                "value": 24.9,
+                "unit": "kW"
+            },
+            {
+                "title": "EER total (Compressor system + rotary heat exchanger)",
+                "value": 8.2,
+                "unit": ""
+            },
+            {
+                "title": "SFP",
+                "value": 1.69,
+                "unit": "kW/(m³/h)"
+            }
+        ]
+    },
+
+    "011911220143": 
+    {
+        "location": "Conference room C",
+        "name": "Geniox 18",
+        "title": "Air Handling Unit with integrated heat pump",
+        "description": "Eurovent Certified (A+ rated) outdoor unit with rotary heat exchanger, integrated reversible heat pump, EC plug fans, bag filter, water re-heater and integrated control system.",
+        "specs":
+        [
+            {
+                "title": "Air volume (fresh air)",
+                "value": 6228,
+                "unit": "m³/h"
+            },
+            {
+                "title": "Cooling recovery: Efficiency",
+                "value": 84.5,
+                "unit": "%"
+            },
+            {
+                "title": "Cooling recovery: Transferred capacity",
+                "value": 79.3,
+                "unit": "kW"
+            },
+            {
+                "title": "Integrated DX cooling",
+                "value": 36.9,
+                "unit": "kW"
+            },
+            {
+                "title": "EER total (Compressor system + rotary heat exchanger)",
+                "value": 8.3,
+                "unit": ""
+            },
+            {
+                "title": "SFP",
+                "value": 1.73,
+                "unit": "kW/(m³/h)"
+            }
+        ]
+    },
+
+    "011904231138": 
+    {
+        "location": "Conference room D",
+        "name": "Geniox 10",
+        "title": "Air Handling Unit",
+        "description": "Eurovent Certified (A+ rated) indoor unit with rotary heat exchanger, EC plug fans, bag filter, water cooling coil and integrated control system.",
+        "specs":
+        [
+            {
+                "title": "Air volume (fresh air)",
+                "value": 1764,
+                "unit": "m³/h"
+            },
+            {
+                "title": "Cooling recovery: Efficiency",
+                "value": 84.3,
+                "unit": "%"
+            },
+            {
+                "title": "Cooling recovery: Transferred capacity",
+                "value": 22.4,
+                "unit": "kW"
+            },
+            {
+                "title": "Integrated water cooling",
+                "value": 10.79,
+                "unit": "kW"
+            },
+            {
+                "title": "SFP",
+                "value": 1.77,
+                "unit": "kW/(m³/h)"
+            }
+        ]
+    },
+
+    "011904231236": 
+    {
+        "location": "Office area",
+        "name": "Geniox 18",
+        "title": "Air Handling Unit with integrated heat pump",
+        "description": "Eurovent Certified (A+ rated) outdoor unit with rotary heat exchanger, integrated reversible heat pump, EC plug fans, bag filter, water re-heater and integrated control system.",
+        "specs":
+        [
+            {
+                "title": "Air volume (fresh air)",
+                "value": 4000,
+                "unit": "m³/h"
+            },
+            {
+                "title": "Cooling recovery: Efficiency",
+                "value": 84.5,
+                "unit": "%"
+            },
+            {
+                "title": "Cooling recovery: Transferred capacity",
+                "value": 80.2,
+                "unit": "kW"
+            },
+            {
+                "title": "Integrated DX cooling",
+                "value": 38.5,
+                "unit": "kW"
+            },
+            {
+                "title": "EER total (Compressor system + rotary heat exchanger)",
+                "value": 8.0,
+                "unit": ""
+            },
+            {
+                "title": "SFP",
+                "value": 1.74,
+                "unit": "kW/(m³/h)"
+            }
+        ]
+    },
+
+    "011908124872": 
+    {
+        "location": "Kitchen area",
+        "name": "Geniox 16.08",
+        "title": "Air Handling Unit combined with kitchen extract air fan",
+        "description": "Eurovent Certified (A+ rated) outdoor unit with EC plug fans, bag filter, water heating coil and integrated control system. Combined with Systemair’s kitchen extract air fan DVG-V 560EC/F400.\n\nExtract air stream cooled by fresh air. Motor has no contact with polluted extract air. Can also be used for smoke and heat extraction up to 400°C for 120 minutes. Continuous regular operation up to 120°C.\n\nCombined solution to supply fresh air while removing polluted air from the kitchen. AHU handles extract air fan according to demands, ensuring balanced ventilation.",
+        "specs":
+        [
+            {
+                "title": "Air volume (fresh air)",
+                "value": 6300,
+                "unit": "m³/h"
+            },
+            {
+                "title": "Water heating",
+                "value": 21.09,
+                "unit": "kW"
+            },
+            {
+                "title": "Water cooling",
+                "value": 112.73,
+                "unit": "kW"
+            },
+            {
+                "title": "SFP",
+                "value": 1.28,
+                "unit": "kW/(m³/h)"
+            }
+        ]
+    },
+
+    "011911220141": 
+    {
+        "location": "Staircase area 2",
+        "name": "Geniox 20",
+        "title": "Air Handling Unit with integrated heat pump",
+        "description": "Eurovent Certified (A+ rated) outdoor unit with rotary heat exchanger, integrated reversible heat pump, EC plug fans, bag filter, water re-heater and integrated control system.",
+        "specs":
+        [
+            {
+                "title": "Air volume (fresh air)",
+                "value": 6840,
+                "unit": "m³/h"
+            },
+            {
+                "title": "Cooling recovery: Efficiency",
+                "value": 84.5,
+                "unit": "%"
+            },
+            {
+                "title": "Cooling recovery: Transferred capacity",
+                "value": 88.0,
+                "unit": "kW"
+            },
+            {
+                "title": "Integrated DX cooling",
+                "value": 40.6,
+                "unit": "kW"
+            },
+            {
+                "title": "EER total (Compressor system + rotary heat exchanger)",
+                "value": 8.5,
+                "unit": ""
+            },
+            {
+                "title": "SFP",
+                "value": 1.55,
+                "unit": "kW/(m³/h)"
+            }
+        ]
+    },
+
+    "011904231128": 
+    {
+        "location": "Staircase area 1",
+        "name": "Geniox 14",
+        "title": "Air Handling Unit with integrated heat pump",
+        "description": "Eurovent Certified (A+ rated) outdoor unit with rotary heat exchanger, integrated reversible heat pump, EC plug fans, bag filter, water re-heater and integrated control system.",
+        "specs":
+        [
+            {
+                "title": "Air volume (fresh air)",
+                "value": 2400,
+                "unit": "m³/h"
+            },
+            {
+                "title": "Cooling recovery: Efficiency",
+                "value": 84.5,
+                "unit": "%"
+            },
+            {
+                "title": "Cooling recovery: Transferred capacity",
+                "value": 39.80,
+                "unit": "kW"
+            },
+            {
+                "title": "Integrated DX cooling",
+                "value": 17.6,
+                "unit": "kW"
+            },
+            {
+                "title": "EER total (Compressor system + rotary heat exchanger)",
+                "value": 7.9,
+                "unit": ""
+            },
+            {
+                "title": "SFP",
+                "value": 1.63,
+                "unit": "kW/(m³/h)"
+            }
+        ]
+    },
+
+    "011911220120": 
+    {
+        "location": "Shop",
+        "name": "Geniox 11",
+        "title": "Air Handling Unit with integrated heat pump",
+        "description": "Eurovent Certified (A+ rated) outdoor unit with rotary heat exchanger, integrated reversible heat pump, EC plug fans, bag filter, water re-heater and integrated control system.",
+        "specs":
+        [
+            {
+                "title": "Air volume (fresh air)",
+                "value": 2160,
+                "unit": "m³/h"
+            },
+            {
+                "title": "Cooling recovery: Efficiency",
+                "value": 84.3,
+                "unit": "%"
+            },
+            {
+                "title": "Cooling recovery: Transferred capacity",
+                "value": 27.40,
+                "unit": "kW"
+            },
+            {
+                "title": "Integrated DX cooling",
+                "value": 12.8,
+                "unit": "kW"
+            },
+            {
+                "title": "EER total (Compressor system + rotary heat exchanger)",
+                "value": 7.2,
+                "unit": ""
+            },
+            {
+                "title": "SFP",
+                "value": 1.84,
+                "unit": "kW/(m³/h)"
+            }
+        ]
+    },
+
+    "011911220122": 
+    {
+        "location": "Cafeteria",
+        "name": "Geniox 16",
+        "title": "Air Handling Unit with integrated heat pump",
+        "description": "Eurovent Certified (A+ rated) outdoor unit with rotary heat exchanger, integrated reversible heat pump, EC plug fans, bag filter, water re-heater and integrated control system.",
+        "specs":
+        [
+            {
+                "title": "Air volume (fresh air)",
+                "value": 4000,
+                "unit": "m³/h"
+            },
+            {
+                "title": "Cooling recovery: Efficiency",
+                "value": 84.4,
+                "unit": "%"
+            },
+            {
+                "title": "Cooling recovery: Transferred capacity",
+                "value": 56.70,
+                "unit": "kW"
+            },
+            {
+                "title": "Integrated DX cooling",
+                "value": 25.3,
+                "unit": "kW"
+            },
+            {
+                "title": "EER total (Compressor system + rotary heat exchanger)",
+                "value": 8.2,
+                "unit": ""
+            },
+            {
+                "title": "SFP",
+                "value": 1.63,
+                "unit": "kW/(m³/h)"
+            }
+        ]
+    },
+
+    "Sysaqua": 
+    {
+        "location": "",
+        "name": "SYSAQUA 170",
+        "title": "Air-cooled chiller",
+        "description": "Provides chilled water to kitchen supply AHU, fan coil units and AHU of conference room D.\n\nEurovent Certified, energy class SCOP A+ chiller with two refrigerant circuits, each equipped with two scroll compressors fitted in tandem for adapting to partial system loads. Up to eight capacity steps provide immediate return on investment versus inverter units.\n\nShopGeniox 11Air Handling Unit with integrated heat pumpIn a nutshellEurovent Certified (A+ rated) indoor unit with rotary heat exchanger, integrated reversible heat pump, EC plug fans, bag filter, water re-heater and integrated control system. Technical factsAir volume: 2160m³/h fresh airCooling recovery: 84,3% efficiency => 27,40 kW transferred capacityIntegrated DX cooling: 12,80 kWEER total: 7,2 (compressor system + rotary heat exchanger)SFP: 1,84 kW/(m³/s)CafeteriaGeniox 16Air Handling Unit with integrated heat pumpIn a nutshellEurovent Certified (A+ rated) indoor unit with rotary heat exchanger, integrated reversible heat pump, EC plug fans, bag filter, water re-heater and integrated control system. Technical factsAir volume: 4000m³/h fresh airCooling recovery: 84,4% efficiency  56,70 kW transferred capacityIntegrated DX cooling: 25,30 kWEER total: 8,2 (compressor system + rotary heat exchanger)SFP: 1,63 kW/(m³/s)SYSAQUA 170Air-cooled chillerIn a nutshellProvides chilled water to kitchen supply AHU, fan coil units and AHU of conference room D. Eurovent Certified, energy class SCOP A+ chiller with two refrigerant circuits, each equipped with two scroll compressors fitted in tandem for adapting to partial system loads. Up to eight capacity steps provide immediate return on investment versus inverter units. Smart ACcloud makes it possible to control units at any time, from anywhere. Settings concerning real-time energy consumption analysis dramatically decrease energy consumption. Auto-adaptative control logic ensures total protection of the compressors at different load or water volume conditions. Leak detection according to BREEAM standard.",
+        "specs":
+        [
+            {
+                "title": "Capacity",
+                "value": 155,
+                "unit": "kW"
+            },
+            {
+                "title": "Refrigerant",
+                "value": "R410A",
+                "unit": ""
+            },
+            {
+                "title": "Compressor",
+                "value": 4,
+                "unit": "scrolls"
+            },
+            {
+                "title": "Sound power level (in 10 meters)",
+                "value": 87,
+                "unit": "dB(A)"
+            },
+            {
+                "title": "EER (fully load efficiency)",
+                "value": 2.89,
+                "unit": ""
+            },
+            {
+                "title": "ESEER (seasonal efficiency)",
+                "value": 4.14,
+                "unit": ""
+            }
+        ]
+    }
+}

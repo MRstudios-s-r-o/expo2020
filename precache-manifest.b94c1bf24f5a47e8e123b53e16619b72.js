@@ -224,6 +224,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/assets/Sysaqua/Sysaqua-Expo_normal_512.png"
   },
   {
+    "revision": "5d41c09564520cefd56790c2a879c26a",
+    "url": "/assets/UnitTexts.json"
+  },
+  {
     "revision": "21a75ef8795d766cc5cca167153f6604",
     "url": "/assets/cloud10.png"
   },
@@ -490,6 +494,126 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "02781bef6845e8ba95292f99e95c82e7",
     "url": "/assets/image_loops/Geniox_Small_03_30frames.36.9.png"
+  },
+  {
+    "revision": "f2f766883e4bb5b0bb1ba5adb60b2366",
+    "url": "/assets/image_loops/Sysaqua_Rotation_v4_30frames.37.1.png"
+  },
+  {
+    "revision": "9eca55f80fa6ef99eefe423fb97a2468",
+    "url": "/assets/image_loops/Sysaqua_Rotation_v4_30frames.37.10.png"
+  },
+  {
+    "revision": "365d95508a0b42196c279fb6b6f9b70c",
+    "url": "/assets/image_loops/Sysaqua_Rotation_v4_30frames.37.11.png"
+  },
+  {
+    "revision": "ae969bf1039c7a21e08e48a56690607f",
+    "url": "/assets/image_loops/Sysaqua_Rotation_v4_30frames.37.12.png"
+  },
+  {
+    "revision": "33af31d09bda52ae0c0e201058024f2c",
+    "url": "/assets/image_loops/Sysaqua_Rotation_v4_30frames.37.13.png"
+  },
+  {
+    "revision": "587cea50b70df4295ef3a94fb447ed5c",
+    "url": "/assets/image_loops/Sysaqua_Rotation_v4_30frames.37.14.png"
+  },
+  {
+    "revision": "7a89d3f0f08b2c413bf29aa00a6190f8",
+    "url": "/assets/image_loops/Sysaqua_Rotation_v4_30frames.37.15.png"
+  },
+  {
+    "revision": "2727ccab3ce0a9b10f9bdee8212e7041",
+    "url": "/assets/image_loops/Sysaqua_Rotation_v4_30frames.37.16.png"
+  },
+  {
+    "revision": "993fc09c4b786fdffb0ebb04c62d65a1",
+    "url": "/assets/image_loops/Sysaqua_Rotation_v4_30frames.37.17.png"
+  },
+  {
+    "revision": "3402522f6f98fb99953505aa5214199a",
+    "url": "/assets/image_loops/Sysaqua_Rotation_v4_30frames.37.18.png"
+  },
+  {
+    "revision": "72ef5d149968b6863b6eb587ae73ba17",
+    "url": "/assets/image_loops/Sysaqua_Rotation_v4_30frames.37.19.png"
+  },
+  {
+    "revision": "03f721264717fef890a684b948858e1d",
+    "url": "/assets/image_loops/Sysaqua_Rotation_v4_30frames.37.2.png"
+  },
+  {
+    "revision": "3bed424f1c9c6d205b2e88a9d4afcaef",
+    "url": "/assets/image_loops/Sysaqua_Rotation_v4_30frames.37.20.png"
+  },
+  {
+    "revision": "dfb38f5bf06880f9e8f279ed7d2444ba",
+    "url": "/assets/image_loops/Sysaqua_Rotation_v4_30frames.37.21.png"
+  },
+  {
+    "revision": "c508e535c9ecb48374172030029944c8",
+    "url": "/assets/image_loops/Sysaqua_Rotation_v4_30frames.37.22.png"
+  },
+  {
+    "revision": "c0d319a7c4d0df499ca3bb1c27b562d7",
+    "url": "/assets/image_loops/Sysaqua_Rotation_v4_30frames.37.23.png"
+  },
+  {
+    "revision": "135bdbd3c5cd61ebb9af0c033bbce262",
+    "url": "/assets/image_loops/Sysaqua_Rotation_v4_30frames.37.24.png"
+  },
+  {
+    "revision": "c6ec02e7728b4a72fdf610a67a042e67",
+    "url": "/assets/image_loops/Sysaqua_Rotation_v4_30frames.37.25.png"
+  },
+  {
+    "revision": "980b6213d4544d8d3ea3d1a750474cb8",
+    "url": "/assets/image_loops/Sysaqua_Rotation_v4_30frames.37.26.png"
+  },
+  {
+    "revision": "fee626b5e74eed9a7fb3e61b3535718e",
+    "url": "/assets/image_loops/Sysaqua_Rotation_v4_30frames.37.27.png"
+  },
+  {
+    "revision": "7dbd7d78b142a4f1a82cea0e1eabf06d",
+    "url": "/assets/image_loops/Sysaqua_Rotation_v4_30frames.37.28.png"
+  },
+  {
+    "revision": "59a3fa7c1f444139e46984fae380c259",
+    "url": "/assets/image_loops/Sysaqua_Rotation_v4_30frames.37.29.png"
+  },
+  {
+    "revision": "bc1b0766c2cbd18e2fdf7a3a16ccfd82",
+    "url": "/assets/image_loops/Sysaqua_Rotation_v4_30frames.37.3.png"
+  },
+  {
+    "revision": "13e97b03fbd0a12f2316e8ac539b6b0d",
+    "url": "/assets/image_loops/Sysaqua_Rotation_v4_30frames.37.30.png"
+  },
+  {
+    "revision": "bf6809ab7c9910a28bef540c31c51b2f",
+    "url": "/assets/image_loops/Sysaqua_Rotation_v4_30frames.37.4.png"
+  },
+  {
+    "revision": "cb6bc32e1515ccefe560284aac039890",
+    "url": "/assets/image_loops/Sysaqua_Rotation_v4_30frames.37.5.png"
+  },
+  {
+    "revision": "722afb210dbc87548101efddfe3288d8",
+    "url": "/assets/image_loops/Sysaqua_Rotation_v4_30frames.37.6.png"
+  },
+  {
+    "revision": "457ad158ea5a334296be418fb767996c",
+    "url": "/assets/image_loops/Sysaqua_Rotation_v4_30frames.37.7.png"
+  },
+  {
+    "revision": "4aeeefe9cfedaccd646d21a764bdd8bc",
+    "url": "/assets/image_loops/Sysaqua_Rotation_v4_30frames.37.8.png"
+  },
+  {
+    "revision": "9f36d62cc0977a374e183f822134dffe",
+    "url": "/assets/image_loops/Sysaqua_Rotation_v4_30frames.37.9.png"
   },
   {
     "revision": "cd86bcc1599608b222bfd5de7820ec64",
@@ -764,7 +888,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cb105d000ee7da1d4022bf2061eda0b3.glb"
   },
   {
-    "revision": "1003ce28115702341dbf",
+    "revision": "50db8ca6135c9330c820",
     "url": "/css/app.css"
   },
   {
@@ -772,11 +896,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/chunk-vendors.css"
   },
   {
-    "revision": "3da793030e9895d23a6d33bb88d54212",
+    "revision": "172c452f63345ddebe54d4adfa6fcf12",
     "url": "/index.html"
   },
   {
-    "revision": "1003ce28115702341dbf",
+    "revision": "50db8ca6135c9330c820",
     "url": "/js/app.js"
   },
   {
