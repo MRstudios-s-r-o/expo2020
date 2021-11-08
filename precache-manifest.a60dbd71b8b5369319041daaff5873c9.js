@@ -888,7 +888,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cb105d000ee7da1d4022bf2061eda0b3.glb"
   },
   {
-    "revision": "50db8ca6135c9330c820",
+    "revision": "bea9770c0d916ad84c18",
     "url": "/css/app.css"
   },
   {
@@ -900,7 +900,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/index.html"
   },
   {
-    "revision": "50db8ca6135c9330c820",
+    "revision": "bea9770c0d916ad84c18",
     "url": "/js/app.js"
   },
   {

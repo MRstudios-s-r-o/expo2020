@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.b94c1bf24f5a47e8e123b53e16619b72.js"
+  "/precache-manifest.a60dbd71b8b5369319041daaff5873c9.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "expo2020-webapp"});
