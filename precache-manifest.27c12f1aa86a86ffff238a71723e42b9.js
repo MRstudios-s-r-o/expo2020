@@ -224,7 +224,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/assets/Sysaqua/Sysaqua-Expo_normal_512.png"
   },
   {
-    "revision": "5d41c09564520cefd56790c2a879c26a",
+    "revision": "b307aee4d05e8a8b70d7102df4b52eb4",
     "url": "/assets/UnitTexts.json"
   },
   {
@@ -888,7 +888,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cb105d000ee7da1d4022bf2061eda0b3.glb"
   },
   {
-    "revision": "bea9770c0d916ad84c18",
+    "revision": "82ed9f32a38c4f147606",
     "url": "/css/app.css"
   },
   {
@@ -900,7 +900,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/index.html"
   },
   {
-    "revision": "bea9770c0d916ad84c18",
+    "revision": "82ed9f32a38c4f147606",
     "url": "/js/app.js"
   },
   {
